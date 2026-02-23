@@ -46,6 +46,7 @@ Se prioriza claridad analítica, reproducibilidad y enfoque práctico para toma 
 
 ```
 📦 NovaRetail-EDA
+ ┣ 📜 Corregido_S8_Student_Version_Project_NovaRetail_Copy1.ipynb
  ┣ 📜 S8 Student Version-Project-NovaRetail.ipynb
  ┣ 📜 novaretail_comportamiento_clientes_2024.csv
  ┣ 📄 README.md
